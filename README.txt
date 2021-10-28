@@ -5,4 +5,9 @@ Git tracks changes of files.
 
 Creating a new branch is quick.
 
+<<<<<<< HEAD
 this is master branch
+=======
+Branch test 2
+aibfhaihda;ohid
+>>>>>>> dev
